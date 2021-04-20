@@ -8,3 +8,6 @@
  */
 
 rootProject.name = 'HW4-gradle'
+include 'db'
+include 'service'
+include 'api'
